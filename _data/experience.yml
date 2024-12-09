@@ -2,7 +2,7 @@
 # Director of Platform Engineering
 - company: Under Armour
   position: Director of Platform Engineering
-  duration: Apr, 2021 &mdash; - Jun 2024
+  duration: Apr, 2021 &mdash; Jun 2024
   summary: Supported over 50 infrastructure, mobile, web, logistics, analytics and backend engineers for Under Armour's global eCommerce websites, Marketing, and digital MapMyFitness app teams.	<ul class="resume-item-list"><li>Led Customer Identity and Access Management (CIAM) team, supporting 100M users.</li><li>Led Solutions Architecture team which supported Global E-commerce Engineering, Marketing, and Connected Fitness by providing architecture insights, setting and enforcing standards and processes, and simplifying our Architecture.  Developed and reported on organization KPI's and participated in quarterly planning.</li><li>Established and led Architecture Review meetings to support teammates with architecture and tooling decisions to improve consistency and reduce cost. Improved developer sentiment and reduced rework by 20%.</li><li>Reduced CIAM vendor costs by negotiating with our vendor to reduce costs by over $1M per year.</li><li>Improved quarterly planning process as part of the leadership team which reduced planning time by 30%.</li><li>Established and maintained strong relationships with key external vendors, resulting in a 20% reduction in procurement costs and improved efficiency.</li><li>Responsible for admin and budgeting of common developer tools like Postman, Github, Atlassian Jira/Confluence and Slack.  Transitioned UA’s entire engineering org from Slack to Microsoft Teams in less than 2 months. </li></ul>
 
 # Senior Manager, Platform Engineering
@@ -12,8 +12,29 @@
   summary: Led a team of over 20 developers in Austin, Baltimore and working remotely, in building and supporting the services behind MapMyRun, our connected fitne application used by over 60 million athletes.<ul class="resume-item-list"><li>Led Customer Identity and Access Management (CIAM) team, supporting 100M users.</li><li>Led the backend Engineering effort to separate MyFitnessPal application afterits sale, which was completed in under 4 months, on time and budget, by creating clear objectives and priorities.</li><li>Led a multi-million-dollar revamp of the backend of Under Armour's digital MapMyFitness app, increasing performance by 20%, reducing infrastructure costs by 15%, and reducing incidents by 60%.</li><li>Worked as a cross functional group to architect and build new features that help our users achieve their fitness goals. Led optimization of our backend codebase and reduced footprint by 30% while also adding new functionality.</li><li>Worked with a variety of programming languages (Java 8+, Scala, Go and Python), Kafka message bus and common data stores like DynamoDB and MySQL (RDS) to manage millions of daily transactions.</li></ul>
 
 
-# Communications Coordinator
+# Engineering Manager, Engineering Advocacy
 - company: Under Armour
   position: Engineering Manager, Engineering Advocacy
   duration:   Aug, 2019  &mdash; Jan, 2021
   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services. <ul class="resume-item-list"><li>Improved Engineering org and the day-to-day life of our Engineers, by recommending and implementing tools and processes</li><li>Built a culture of learning by overhauling documentation by auditing, refinining and removing inaccurate information.  Also added and democratized infrastructure and services documentation, improving developer satisfaction scores by 40%.</li><li>Built and organized a robust Tech Talk rotation where UA teammates and external technology leaders would present bi-weekly, that had a streak of providing interesting content for over 2 years.</li><li>Managed our internal engineering tooling, reducing time to resolution by 50%.</li></ul>
+
+
+# Engineering Manager Labs
+- company: Under Armour
+  position: Engineering Manager, Labs
+  duration:   Jan, 2019  &mdash; Aug, 2019
+  summary: Managed eight Quality Assurance, SDET, and Software Engineering teammates to deliver manual and automated testing for UnderArmour.com North America which was responsible for nearly half a billion in revenue.  Responsible for streamlining our testing strategy to allow more rapid development with a higher degree of confidence.<ul class="resume-item-list"><li>Transformed the team from mostly manual testing to a focus on automation and was able to cover 95% of our backend services and most of our frontend code.</li><li>Integrated automated testing into our CI/CD process, allowing our development teams to get testing feedback early in the SDLC process to be able to deliver with confidence.</li><li>Reduced time to market by 30%, reduced regressions by 80% and allowed our developers to push 25 releases a day - up from 10.</li></ul>
+
+
+# Engineering Manager of Quality Engineering, North America Ecommerce
+- company: Under Armour
+  position: Engineering Manager of Quality Engineering, North America Ecommerce
+  duration:   Feb, 2017  &mdash; Dec, 2018
+  summary: Managed eight Quality Assurance, SDET, and Software Engineering teammates to deliver manual and automated testing for UnderArmour.com North America which was responsible for nearly half a billion in revenue.  Responsible for streamlining our testing strategy to allow more rapid development with a higher degree of confidence.<ul class="resume-item-list"><li>Transformed the team from mostly manual testing to a focus on automation and was able to cover 95% of our backend services and most of our frontend code.</li><li>Integrated automated testing into our CI/CD process, allowing our development teams to get testing feedback early in the SDLC process to be able to deliver with confidence.</li><li>Reduced time to market by 30%, reduced regressions by 80% and allowed our developers to push 25 releases a day - up from 10.</li></ul>
+
+
+# Tech Manager, UI / UX
+- company: AOL Platforms (via purchase of Millennial Media
+  position: Tech Manager, UI / UX
+  duration:   Dec, 2015  &mdash; Dec, 2016
+  summary: Managed a team in delivering UI for all projects by the Data Services group. The team successfully delivered dozens of products while working across multiple divisions of AOL using AngularJS, Bootstrap, LESS, Gulp, Karma, Jenkins and Docker.<ul class="resume-item-list"><li>Led quarterly resource planning, process and standards development, continuous integration and automation.</li></ul>
