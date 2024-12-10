@@ -52,3 +52,39 @@
   position: Senior Software Engineer - Labs / Research and Development
   duration:   Nov, 2011  &mdash; Jan, 2014
   summary: Part of a team reporting directly to, and executing the vision of, the CTO for a mobile advertising and monetization company.  Helped deliver a self-serve client solution, mainly written in Javascript, that generated $1 million in its first six months.<ul class="resume-item-list"><li>Part of a team reporting directly to, and executing the vision of, the CTO for a mobile advertising and monetization company.  Helped deliver a self-serve client solution, mainly written in Javascript, that generated $1 million in its first six months</li><li>Researched and presented new technologies and tools to tech leadership and the CTO and led their introduction to the larger Engineering group.</li></ul>
+
+# Senior Web Developer
+- company: Cygnus Business Media
+  position: Senior Web Developer
+  duration:   May, 201  &mdash; Sep, 2011
+  summary: Part of a team at a large B2B publishing company tasked with re-launching the entire catalog of existing web properties from a mixed Java and Drupal platform, to a custom content management and publishing platform written primarily in PHP/Javascript.<ul class="resume-item-list"><li●	Helped develop standards and processes for a complete, distributed publishing system, using several open-source technologies including MySQL, MongoDB, and Solr as well as mentoring younger developers.</li></ul>
+
+  # Senior Software Engineer - Labs / Research and Development
+- company: The Atom Group
+  position: Lead Open-Source Developer
+  duration:   Aug, 2008  &mdash; Apr, 2010
+  summary: Lead Technical developer on open-source projects for a web development company.  Responsible for technical project management, and programming.<ul class="resume-item-list"><li>Introduced open-source technology as a lower cost option for our customers, adding 5 new customers in the first 6 months.</li><li>Developed several complete websites using open-source CMS's including Drupal and CMSMS as well as custom PHP, MySQL and Javascript applications. Also developed websites in .NET using the Kentico CMS.</li></ul>
+
+  # Iron Labs
+- company: Iron Labs, Inc
+  position: Co-Founder, Lead Developer / Web Manager
+  duration:   Feb, 2008  &mdash; May, 2010
+  summary: Management of day-to-day web operations of a hosting and custom software company that I co-founded.  Responsible for composing proposals, writing technical documents, designing systems, project management, and programming. Developed several complete websites using CMS's including Drupal and CMSMS as well as custom systems for companies around the region.
+
+  # Agamatrix
+- company: Agamatrix
+  position: Software Engineer
+  duration:   Mar, 2007  &mdash; Feb, 2008
+  summary: Responsible for all web development.  Lead project to design and develop a web-based diabetes management system as well as redeveloping the current desktop solution to interface with it.
+  
+#Glen Group
+- company: Glen Group, Inc. / Drive Brand Studios
+  position: Senior Web Developer
+  duration:   May, 2002  &mdash; Mar, 2007
+  summary: Responsible for developing and maintaining highly functional and easily modified web sites primarily using PHP/MySQL, as well as maintaining web development code base of custom designed CMS. Leading projects with up to five developers as well as meeting with clients, including state agencies, ski resorts, international apparel companies, and airlines among others.
+
+#NCIA
+- company: NCIA
+  position: Software Engineer
+  duration:   May, 1999  &mdash; May, 2002
+  summary: Development of custom Perl, C, C++, PHP, and Python applications. Projects consist of an inter/intranet company-wide 10,000+ user web-based billing system using PHP with a MySQL back-end, a custom email and printed invoice system as well as custom reports.
