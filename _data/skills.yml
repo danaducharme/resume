@@ -19,3 +19,6 @@
 - skill: Team Building and Talent Management
   description: 
 
+# Technical Skills
+- skill: Technical Skills
+  description: Java, PHP, Javascript, Typescript, HTML/CSS, Python, Perl, Bash, MySQL, PostgreSql, MongoDB, DynamoDB, GraphQL, Neo4j, Kafka, Hadoop, Vertica, Microservice RESTful API design
