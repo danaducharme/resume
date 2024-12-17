@@ -23,7 +23,7 @@
 - company: Under Armour
   position: Engineering Manager, Labs
   duration:   Jan, 2019  &mdash; Aug, 2019
-  summary: At the direction of Engineering leadership, I was hand-picked as part of a small team tasked with discovering and addressing problems not only within Engineering, but to provide Engineering support to other teams in the organization.<ul class="resume-item-list"><li>●	Organized and ran creative brainstorming workshops as well as interviewed dozens of teammates across UA and discovered that we did not have a good way to share and analyze our product data.</li><li>Integrated automated testing into our CI/CD process, allowing our development teams to get testing feedback early in the SDLC process to be able to deliver with confidence.</li><li>Built an innovative application using neo4j and GraphQL that enabled users to view detailed UA product data that provided insights by connecting data sources that were impossible to examine previously.</li><li>Built new relationships with parts of the business that Engineering rarely worked with in the past to accelerate speed to market and reduce tech overlap by 10%.</li></ul>
+  summary: At the direction of Engineering leadership, I was hand-picked as part of a small team tasked with discovering and addressing problems not only within Engineering, but to provide Engineering support to other teams in the organization.<ul class="resume-item-list"><li>Organized and ran creative brainstorming workshops as well as interviewed dozens of teammates across UA and discovered that we did not have a good way to share and analyze our product data.</li><li>Integrated automated testing into our CI/CD process, allowing our development teams to get testing feedback early in the SDLC process to be able to deliver with confidence.</li><li>Built an innovative application using neo4j and GraphQL that enabled users to view detailed UA product data that provided insights by connecting data sources that were impossible to examine previously.</li><li>Built new relationships with parts of the business that Engineering rarely worked with in the past to accelerate speed to market and reduce tech overlap by 10%.</li></ul>
 
 
 # Engineering Manager of Quality Engineering, North America Ecommerce
@@ -57,7 +57,7 @@
 - company: Cygnus Business Media
   position: Senior Web Developer
   duration:   May, 201  &mdash; Sep, 2011
-  summary: Part of a team at a large B2B publishing company tasked with re-launching the entire catalog of existing web properties from a mixed Java and Drupal platform, to a custom content management and publishing platform written primarily in PHP/Javascript.<ul class="resume-item-list"><li●	Helped develop standards and processes for a complete, distributed publishing system, using several open-source technologies including MySQL, MongoDB, and Solr as well as mentoring younger developers.</li></ul>
+  summary: Part of a team at a large B2B publishing company tasked with re-launching the entire catalog of existing web properties from a mixed Java and Drupal platform, to a custom content management and publishing platform written primarily in PHP/Javascript.<ul class="resume-item-list"><li>Helped develop standards and processes for a complete, distributed publishing system, using several open-source technologies including MySQL, MongoDB, and Solr as well as mentoring younger developers.</li></ul>
 
   # Senior Software Engineer - Labs / Research and Development
 - company: The Atom Group
