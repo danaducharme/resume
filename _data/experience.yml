@@ -59,25 +59,25 @@
   duration:   May, 2010  &mdash; Sep, 2011
   summary: Part of a team at a large B2B publishing company tasked with re-launching the entire catalog of existing web properties from a mixed Java and Drupal platform, to a custom content management and publishing platform written primarily in PHP/Javascript.<ul class="resume-item-list"><li>Helped develop standards and processes for a complete, distributed publishing system, using several open-source technologies including MySQL, MongoDB, and Solr as well as mentoring younger developers.</li></ul>
 
-  # Senior Software Engineer - Labs / Research and Development
+# Senior Software Engineer - Lead Open-Source Developer
 - company: The Atom Group
   position: Lead Open-Source Developer
   duration:   Aug, 2008  &mdash; Apr, 2010
   summary: Lead Technical developer on open-source projects for a web development company.  Responsible for technical project management, and programming.<ul class="resume-item-list"><li>Introduced open-source technology as a lower cost option for our customers, adding 5 new customers in the first 6 months.</li><li>Developed several complete websites using open-source CMS's including Drupal and CMSMS as well as custom PHP, MySQL and Javascript applications. Also developed websites in .NET using the Kentico CMS.</li></ul>
 
-  # Iron Labs
+# Iron Labs
 - company: Iron Labs, Inc
   position: Co-Founder, Lead Developer / Web Manager
   duration:   Feb, 2008  &mdash; May, 2010
   summary: Management of day-to-day web operations of a hosting and custom software company that I co-founded.  Responsible for composing proposals, writing technical documents, designing systems, project management, and programming. Developed several complete websites using CMS's including Drupal and CMSMS as well as custom systems for companies around the region.
 
-  # Agamatrix
+# Agamatrix
 - company: Agamatrix
   position: Software Engineer
   duration:   Mar, 2007  &mdash; Feb, 2008
   summary: Responsible for all web development.  Lead project to design and develop a web-based diabetes management system as well as redeveloping the current desktop solution to interface with it.
   
-#Glen Group
+# Glen Group
 - company: Glen Group, Inc. / Drive Brand Studios
   position: Senior Web Developer
   duration:   May, 2002  &mdash; Mar, 2007
